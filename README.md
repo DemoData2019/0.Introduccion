@@ -16,6 +16,5 @@ Los módulos que se desarrollarán son:
 
  * Link directo hacia este repositorio: https://bit.ly/2QMMIp4
 
-## Introducción
 
-Se recomienda que el alumno utilice en todo momento el computador del laboratorio, sin embargo, se recomienda instalar los softwares en sus computadores personales para practicar y tener los materiales. 
+## Se recomienda que el alumno utilice en todo momento el computador del laboratorio, sin embargo, se recomienda instalar los softwares en sus computadores personales para practicar y tener los materiales. 
