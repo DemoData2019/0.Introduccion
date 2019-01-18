@@ -14,11 +14,22 @@ Los módulos que se desarrollarán son:
 
 [DemoData](http://www.demodata.cl/) y la [Universidad de Concepción](http://www.udec.cl) son los encargados de efectuar este programa con los más altos estándares de calidad. En el siguiente enlace se encontrará información para la instalación de softwares necesarios para la realización de los cursos. 
 
- * Link directo hacia este repositorio: https://bit.ly/2QMMIp4
+ * Link directo hacia este repositorio: https://bit.ly/2MjqOcm
 
 
-## Se recomienda que el alumno utilice en todo momento el computador del laboratorio, sin embargo, se recomienda instalar los softwares en sus computadores personales para practicar y tener los materiales. 
+## Se recomienda que el alumno utilice en todo momento el computador del laboratorio, sin embargo, puede instalar los softwares en sus computadores personales para practicar y tener los materiales. 
 
 ## Puedes instalarlos con los tutoriales que se encuentran en este repositorio.
 
-# Cursos introductorios a R y Python estarán en cuadernos de jupyter por lo tanto se recomienda a las personas que verán ambos cursos que instalen el tutorial de python y sigan las instrucciones para ingresar a los cuadernos de jupyter.
+## Cursos introductorios a R y Python estarán en cuadernos de jupyter por lo tanto se recomienda a las personas que verán ambos cursos que instalen el tutorial de python y sigan las instrucciones para ingresar a los cuadernos de jupyter desde ese tutorial.
+
+# Indicaciones para llegar
+
+Las clases de este programa se realizarán en la facultad de Ciencias Físicas y Matemáticas
+
+![](https://github.com/DemoData2019/-miscellaneous/blob/master/images/Indicaciones.png)
+
+Para llegar debes ingresar por el arco de la universidad, caminar por el 
+
+
+
