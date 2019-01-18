@@ -1,9 +1,21 @@
-# Instalación QGIS
+# Instalación QGIS 3.4
 
-Para la instalación de QGIS debes ingresar a https://qgis.org/es/site/forusers/download
+Para la instalación de QGIS debes ingresar a https://qgis.org/es/site/
  
- * Escojer según tu sistema operativo
+ * Click en Descargar Ahora
 
- * Descargar la versión 3.4.3 según tu sistema operativo
+ * Descargar la versión 3.4.3
  
- Si tienes algún problema puedes descargar OSGeo4W (32 bit o 64 bit) desde https://bit.ly/2U0aQ9w
+ * Presionar en OSGeo4W(x64 o x32) dependiendo de su computador
+ 
+ * Abre o ejecuta lo que descargó
+ 
+ * Importante conceder permisos de administrador
+ 
+ Luego al ejecutar se debe escojer la siguiente opción: "Express Deskpot Install"
+ 
+ * Marcar todos los links, y aceptar todos los permisos.
+ 
+ * Finalizar
+ 
+ 
