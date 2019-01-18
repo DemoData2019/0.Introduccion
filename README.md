@@ -25,11 +25,6 @@ Los módulos que se desarrollarán son:
 
 # Indicaciones para llegar
 
-Las clases de este programa se realizarán en la facultad de Ciencias Físicas y Matemáticas
+Las clases de este programa se realizarán en la facultad de Ciencias Físicas y Matemáticas, frente a la laguna de Los Patos.
 
 ![](https://github.com/DemoData2019/-miscellaneous/blob/master/images/Indicaciones.png)
-
-Para llegar debes ingresar por el arco de la universidad, caminar por el 
-
-
-
