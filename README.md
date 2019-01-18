@@ -20,3 +20,5 @@ Los módulos que se desarrollarán son:
 ## Se recomienda que el alumno utilice en todo momento el computador del laboratorio, sin embargo, se recomienda instalar los softwares en sus computadores personales para practicar y tener los materiales. 
 
 ## Puedes instalarlos con los tutoriales que se encuentran en este repositorio.
+
+# Cursos introductorios a R y Python estarán en cuadernos de jupyter por lo tanto se recomienda a las personas que verán ambos cursos que instalen el tutorial de python y sigan las instrucciones para ingresar a los cuadernos de jupyter.
